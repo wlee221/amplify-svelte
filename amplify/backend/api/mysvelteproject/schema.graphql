@@ -1,0 +1,5 @@
+type Todo @model {
+  id: ID!
+  done: Boolean!
+  description: String
+}

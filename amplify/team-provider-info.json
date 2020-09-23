@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mysvelteproject-dev-105419-authRole",
+            "UnauthRoleArn": "arn:aws:iam::739164709218:role/amplify-mysvelteproject-dev-105419-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::739164709218:role/amplify-mysvelteproject-dev-105419-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-mysvelteproject-dev-105419-deployment",
+            "UnauthRoleName": "amplify-mysvelteproject-dev-105419-unauthRole",
+            "StackName": "amplify-mysvelteproject-dev-105419",
+            "StackId": "arn:aws:cloudformation:us-west-2:739164709218:stack/amplify-mysvelteproject-dev-105419/cf853660-fdc5-11ea-a52a-06822d005ce6",
+            "AmplifyAppId": "dvck908riea1a"
+        }
+    }
+}
